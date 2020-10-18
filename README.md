@@ -1,1 +1,1 @@
-# kontakt-wsb
+# Kontakt Informatyka WSB
